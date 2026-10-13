@@ -1,0 +1,6 @@
+{
+  "name": "CineSim Pro - Simulador de Fotografía y Cámara de Cine",
+  "description": "Simulador manual profesional de fotografía y cinematografía con controles físicos, cálculo óptico de profundidad de campo, bokeh, obturación, ISO, falso color, cebras e histograma estilo Blackmagic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
